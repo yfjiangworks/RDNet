@@ -1,5 +1,5 @@
-![Image](resources/fig1.png)
 <p align="center">
+![Image](resources/fig1.png)
 Three categories of bounding box error. The state-of-art tracking accuracy is still limited to poor performance due to presence of complex scenes and frequent change of target appearance. Poor performance of object tracking can be attributed largely by the object’s encapsulation with inaccurate bounding box in the form of oversized.
 </p>
 

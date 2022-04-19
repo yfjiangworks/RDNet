@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 
-title: COVID-19 CT Image Synthesis with a Conditional Generative Adversarial Network
-description: A novel COVID-19 CT image synthesis method can generate high-quality synthetic data for downstream diagnostic tasks. (IEEE JBHI featured article.)
+title: Precise Regression for Bounding Box Correction for Improved Tracking Based on Deep Reinforcement Learning
+description: A deep reinforcement learning based bounding box regression method can improve multi-person tracking performance significantly. (Published in ICASSP2018.)

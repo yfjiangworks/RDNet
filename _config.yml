@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 
-title: Precise Regression for Bounding Box Correction for Improved Tracking Based on Deep Reinforcement Learning
-description: A deep reinforcement learning based bounding box regression method can improve multi-person tracking performance significantly. (Published in ICASSP2018.)
+title: Relay Dueling Network for Visual Tracking with Broad Field-of-View
+description: A novel deep reinforcement learning based visual tracking method inspired by the human perception mechanism. (Published in IET Computer Vision.)

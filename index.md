@@ -24,7 +24,9 @@ Examples of the target search procedure. The start points are represented by thr
 (a) MotorRolling (97th frame), (b) CarDark (293th frame), (c) Dancer (126th frame).
 </p>
 
-![Image](resources/fig4.png)
+<p align="center">
+  <img width="85%" height="auto" src="resources/fig4.png">
+</p>
 <p align="center">
 The precision and success plots for the OTB50 and OTB100 benchmarks. (a) OTB50 benchmark, (b) OTB100 benchmark.
 </p>
